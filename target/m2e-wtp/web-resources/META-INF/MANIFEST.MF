@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: odata4j
+Implementation-Version: 0.1.0
+Built-By: I336048
+Implementation-Vendor-Id: com.sap.odata4j
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/odata4j/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
